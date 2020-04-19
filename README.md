@@ -1,2 +1,2 @@
 # testForAzureDevOps
-test (created on GitHub, accessed via Zure DevOps and VSOnline)
+test (created on GitHub, accessed via Azure DevOps and VSOnline)
